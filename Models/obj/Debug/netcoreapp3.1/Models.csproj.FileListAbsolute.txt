@@ -1,0 +1,8 @@
+D:\apyoar_Assisment\Web_Api\SampleWebApi\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+D:\apyoar_Assisment\Web_Api\SampleWebApi\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+D:\apyoar_Assisment\Web_Api\SampleWebApi\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+D:\apyoar_Assisment\Web_Api\SampleWebApi\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+D:\apyoar_Assisment\Web_Api\SampleWebApi\Models\bin\Debug\netcoreapp3.1\Models.dll
+D:\apyoar_Assisment\Web_Api\SampleWebApi\Models\bin\Debug\netcoreapp3.1\Models.pdb
+D:\apyoar_Assisment\Web_Api\SampleWebApi\Models\obj\Debug\netcoreapp3.1\Models.dll
+D:\apyoar_Assisment\Web_Api\SampleWebApi\Models\obj\Debug\netcoreapp3.1\Models.pdb
